@@ -1,5 +1,5 @@
 # Auxiliary page of a memory essay issued on "Tenmon Geppou"
 
-Some of photos not included the essay are distributed here.
+Some of materials not included the essay are distributed here.
 
 
