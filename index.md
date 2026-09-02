@@ -5,19 +5,19 @@
 
 
 ## 追悼　谷川清隆	平井正則（福岡教育大学名誉教授）
-<p><img src="./photo/hirai.jpg" style="margin-bottom: 32px;"></p>
+<p><img src="./photo/hirai.jpg" style="margin-bottom: 64px;"></p>
 
 ## 緯度観測所  ～国立天文台地球回転研究系のころの谷川さんとの思い出  里　嘉千茂（東京学芸大学名誉教授）
-<img src="./photo/sato_agura_19900817.jpg" style="margin-bottom: 32px;">
+<img src="./photo/sato_agura_19900817.jpg" style="margin-bottom: 64px;">
 
 ## 谷川さんの思い出	真鍋盛二（国立天文台電波研究部）
-<img src="./photo/manabe.png" style="margin-bottom: 32px;">
+<img src="./photo/manabe.png" style="margin-bottom: 64px;">
 
 ## わが友谷川君	木下宙（元国立天文台位置天文・天体力学研究系教授）　    
-<img src="./photo/kinoshita_20220225.jpg" style="margin-bottom: 32px;">
+<img src="./photo/kinoshita_20220225.jpg" style="margin-bottom: 64px;">
 
 ## 谷川さんと推古日食	相馬充（国立天文台），早川尚志（名古屋大学）　    
-<img src="./photo/soma.png" style="margin-bottom: 32px;">
+<img src="./photo/soma.png" style="margin-bottom: 64px;">
 
 筆者による推古日食のΔT拘束幅（緑）とその他の研究成果の比較．
 黒がMorrison et al. (2021), 青がSoma & Tanikawa (2016), 紫が Martinez Uso & Marco Castillo (2019)，
@@ -27,13 +27,13 @@
 <img src="./photo/sigalo1.jpg">
 <img src="./photo/sigalo2.jpg">
 <img src="./photo/sigalo3.jpg">
-<img src="./photo/sigalo4.jpg" style="margin-bottom: 32px;">
+<img src="./photo/sigalo4.jpg" style="margin-bottom: 64px;">
 
 ## 谷川清隆さんの思い出	伊藤孝士(国立天文台)
-<img src="./photo/ito.jpg" style="margin-bottom: 32px;">
+<img src="./photo/ito.jpg" style="margin-bottom: 64px;">
 
 ## 谷川先生との思い出	斎藤正也(長崎県立大学シーボルト校)
 <img src="./photo/saito_2010.png">
-<img src="./photo/saito_20180826.png" style="margin-bottom: 32px;">
+<img src="./photo/saito_20180826.png" style="margin-bottom: 64px;">
 
 
