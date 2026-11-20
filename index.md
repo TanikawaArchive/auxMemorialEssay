@@ -1,6 +1,10 @@
-# 「天文月報」2026年XX月号掲載の追悼文集へのAPPENDIX
+# 「天文月報」2026年12月号掲載の追悼文集へのAPPENDIX
 
-紙数の制約のために，本文では図表などを割愛した．
+紙数の制約のために，
+<a href='https://www.asj.or.jp/jp/activities/geppou/2026/entry1173.html'>
+「天文月報」2026年12月号
+</a>の
+<a href='https://www.asj.or.jp/geppou/article/2026/119-12_736.pdf'>記事</a>では図表などを割愛した．
 本文掲載のものも含め，図表をこのページに掲載する．
 
 
